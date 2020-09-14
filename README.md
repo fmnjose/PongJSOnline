@@ -9,3 +9,6 @@ The player connects through the host ip address.
 If more than 2 players join the server, they will be spectators, and can't interact with the game. If the host leaves the game, everyone is disconnected.
 
 There is no reconnecting mechanism. If any of the players leave, there is no way to take their places, even if you are a spectator.
+
+
+Use "node server.js" to initialize the server.
